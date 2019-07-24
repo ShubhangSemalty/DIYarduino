@@ -1,10 +1,4 @@
-/**
- * LED Music Visualizer
- * by Devon Crawford
- * using the FastLED library: http://fastled.io/
- * April 22, 2018
- * Watch the video: https://youtu.be/lU1GVVU9gLU
- */
+
 #include "FastLED.h"
 
 #define NUM_LEDS 300        // How many leds in your strip?
